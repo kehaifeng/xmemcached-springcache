@@ -1,0 +1,1 @@
+Spring Cache abstraction implementation for xmemcached
